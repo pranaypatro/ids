@@ -1,0 +1,11 @@
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\bin\Debug\IntrusionDetectionSystem.exe.config
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\bin\Debug\IntrusionDetectionSystem.exe
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\bin\Debug\IntrusionDetectionSystem.pdb
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.csprojResolveAssemblyReference.cache
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.Form1.resources
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.Properties.Resources.resources
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.csproj.GenerateResource.cache
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.exe
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.pdb
+C:\Users\Pranay Patro\source\repos\IntrusionDetectionSystem\IntrusionDetectionSystem\obj\Debug\IntrusionDetectionSystem.Form2.resources
